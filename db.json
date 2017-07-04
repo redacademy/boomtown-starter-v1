@@ -25,7 +25,7 @@
       "itemOwner": "dQg4HT262FYOiuOUIRj1xrXjOva2",
       "createdOn": 1497546618,
       "available": false,
-      "borrower": 1
+      "borrower": "LAi9TYWxgGhbjgHu1Sm6ZvB1tRP2"
     },
     {
       "id": 3,
@@ -64,7 +64,7 @@
       "itemOwner": "TyHcYnSocuOg6PmWQivgxerTLcq2",
       "createdOn": 1497489120,
       "available": false,
-      "borrower": 3
+      "borrower": "dQg4HT262FYOiuOUIRj1xrXjOva2"
     },
     {
       "id": 6,
@@ -104,7 +104,7 @@
       "itemOwner": "TyHcYnSocuOg6PmWQivgxerTLcq2",
       "createdOn": 1497406380,
       "available": false,
-      "borrower": 2
+      "borrower": "LAi9TYWxgGhbjgHu1Sm6ZvB1tRP2"
     },
     {
       "id": 9,
@@ -117,7 +117,7 @@
       "itemOwner": "LAi9TYWxgGhbjgHu1Sm6ZvB1tRP2",
       "createdOn": 1497398220,
       "available": false,
-      "borrower": 1
+      "borrower": "TyHcYnSocuOg6PmWQivgxerTLcq2"
     },
     {
       "id": 10,
@@ -156,7 +156,7 @@
       "itemOwner": "dQg4HT262FYOiuOUIRj1xrXjOva2",
       "createdOn": 1497333660,
       "available": false,
-      "borrower": 2
+      "borrower": "TyHcYnSocuOg6PmWQivgxerTLcq2"
     },
     {
       "id": 13,
@@ -208,7 +208,7 @@
       "itemOwner": "TyHcYnSocuOg6PmWQivgxerTLcq2",
       "createdOn": 1497238620,
       "available": false,
-      "borrower": 3
+      "borrower": "dQg4HT262FYOiuOUIRj1xrXjOva2"
     },
     {
       "id": 17,
@@ -260,7 +260,7 @@
       "itemOwner": "TyHcYnSocuOg6PmWQivgxerTLcq2",
       "createdOn": 1497072300,
       "available": false,
-      "borrower": 2
+      "borrower": "LAi9TYWxgGhbjgHu1Sm6ZvB1tRP2"
     },
     {
       "id": 21,
@@ -284,7 +284,7 @@
       "bio": "I am a professional developer and I make stuff on the internet."
     },
     {
-      "id": "TyHcYnSocuOg6PmWQivgxerTLcq2", 
+      "id": "TyHcYnSocuOg6PmWQivgxerTLcq2",
       "email": "mackenzie@redacademy.com",
       "fullName": "Mackenzie Kieran",
       "bio": "I am a professional developer and I make stuff on the internet."

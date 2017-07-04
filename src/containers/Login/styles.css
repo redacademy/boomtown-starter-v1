@@ -17,6 +17,8 @@
 .login .logo {
     margin-bottom: 1rem;
     margin-top: -97px;
+    position: relative;
+    z-index: 1000;
 }
 
 .login .enterButton {
@@ -44,9 +46,11 @@
 }
 
 .login .bottomLeft {
-    position: absolute;
-    bottom: -10px;
+    bottom: 0;
     left: 0;
+    margin-bottom: -10px;
+    overflow: hidden;
+    position: absolute;
 }
 
 .login .topRight {
